@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Speak-N-Chat/static/css/main.2f5ed6b0.css",
+    "main.js": "/Speak-N-Chat/static/js/main.f0c22763.js",
+    "static/js/453.d9b9e9fe.chunk.js": "/Speak-N-Chat/static/js/453.d9b9e9fe.chunk.js",
+    "static/media/Frame 63.png": "/Speak-N-Chat/static/media/Frame 63.158f320eccf0bb3d3f5b.png",
+    "index.html": "/Speak-N-Chat/index.html",
+    "main.2f5ed6b0.css.map": "/Speak-N-Chat/static/css/main.2f5ed6b0.css.map",
+    "main.f0c22763.js.map": "/Speak-N-Chat/static/js/main.f0c22763.js.map",
+    "453.d9b9e9fe.chunk.js.map": "/Speak-N-Chat/static/js/453.d9b9e9fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5ed6b0.css",
+    "static/js/main.f0c22763.js"
+  ]
+}
