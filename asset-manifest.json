@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Speak-N-Chat/static/css/main.2f5ed6b0.css",
-    "main.js": "/Speak-N-Chat/static/js/main.3629ae28.js",
-    "static/js/453.d9b9e9fe.chunk.js": "/Speak-N-Chat/static/js/453.d9b9e9fe.chunk.js",
-    "static/media/Frame 63.png": "/Speak-N-Chat/static/media/Frame 63.158f320eccf0bb3d3f5b.png",
-    "index.html": "/Speak-N-Chat/index.html",
-    "main.2f5ed6b0.css.map": "/Speak-N-Chat/static/css/main.2f5ed6b0.css.map",
-    "main.3629ae28.js.map": "/Speak-N-Chat/static/js/main.3629ae28.js.map",
-    "453.d9b9e9fe.chunk.js.map": "/Speak-N-Chat/static/js/453.d9b9e9fe.chunk.js.map"
+    "main.css": "/static/css/main.4ea9ff8b.css",
+    "main.js": "/static/js/main.d0e0c950.js",
+    "static/js/453.c5ab181e.chunk.js": "/static/js/453.c5ab181e.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4ea9ff8b.css.map": "/static/css/main.4ea9ff8b.css.map",
+    "main.d0e0c950.js.map": "/static/js/main.d0e0c950.js.map",
+    "453.c5ab181e.chunk.js.map": "/static/js/453.c5ab181e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f5ed6b0.css",
-    "static/js/main.3629ae28.js"
+    "static/css/main.4ea9ff8b.css",
+    "static/js/main.d0e0c950.js"
   ]
 }
